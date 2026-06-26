@@ -17,7 +17,7 @@ The system architecture consists of two main hardware components:
 * **Microcontrollers:** ESP32-C3 (Wearable Node) & ESP32 (Gateway)
 * **Sensors:** MAX30102 (Pulse Oximeter), MPU6050 (6-axis IMU)
 * **Software Frameworks:** C/C++, Arduino Core, FreeRTOS
-* **Machine Learning:** Edge Impulse (TinyML C++ Library)
+* **Machine Learning:** Edge Impulse (TinyML Adruino Library)
 * **Cloud & Database:** Firebase Real-time Database (`baby-wearable` instance)
 
 ## 👨‍💻 Author
